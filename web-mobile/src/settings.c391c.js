@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/Baccarat.fire",orientation:"",jsList:["assets/Script/Lib/Global.48856.js"],bundleVers:{internal:"803f8",Cards:"6ef57",Audio:"b906a",resources:"1b2f5",main:"34202"}};
